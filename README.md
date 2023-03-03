@@ -7,6 +7,10 @@
 
 
 ## About me
+- Learning to become a full stack developer
+- Using right now: Rect and, recently started Java Spring
+- 
+
 
 ## Github Stats
   
