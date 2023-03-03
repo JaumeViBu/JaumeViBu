@@ -1,15 +1,13 @@
+## About me
+- Learning to become a full stack developer
+- Using right now: Rect and, recently started Java Spring
+
 
 ## Contact me
 
 <div id="header" align="center">
   <a href="https://www.linkedin.com/in/jaume-vidal-buenafuente/" ><img src="https://img.shields.io/badge/LinkedIn-blue" width="100"/></a>
 </div> 
-
-
-## About me
-- Learning to become a full stack developer
-- Using right now: Rect and, recently started Java Spring
-- 
 
 
 ## Github Stats
