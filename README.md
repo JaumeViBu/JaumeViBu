@@ -1,10 +1,8 @@
 <div align="center"><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Profile animated developer picture" style="width: 200px;"/></div>
 <h2 align="center">About me</h2>
-
-- Learning to become a full stack developer
-- Using right now: React and, recently started, Java Spring
-- Enjoying my first steps in the web development world
-
+<p align="center">Learning to become a full stack developer</p>
+<p align="center">Using right now: React and, recently started, Java Spring</p>
+<p align="center">Enjoying my first steps in the web development world</p>
 
 <h2 align="center">Contact me</h2>
 
