@@ -13,17 +13,6 @@
 </div> 
 
 
-<h2 align="center">Github's stats</h2>
-  
-<div align="center">
-<table>
-    <tr>
-      <td align="center" style="padding=0;width=50%;">
-        <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=JaumeViBu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" />
-      </td>
-    </tr>
-</table>
-</div>
 
 <h2 align="center">Technologies Used</h2>
 <div align="center">
