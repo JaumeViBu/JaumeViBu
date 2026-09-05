@@ -1,7 +1,5 @@
 <h2 align="center">About me</h2>
 <p align="center">Full stack developer</p>
-<p align="center">Using right now: React and, recently started, TypeScript</p>
-<p align="center">Enjoying my first steps in the web development world</p>
 
 <h2 align="center">Contact me</h2>
 
