@@ -1,4 +1,3 @@
-<div align="center"><img src="avatar.png" alt="Profile animated developer picture" style="width: 200px;"/></div>
 <h2 align="center">About me</h2>
 <p align="center">Full stack developer</p>
 <p align="center">Using right now: React and, recently started, TypeScript</p>
