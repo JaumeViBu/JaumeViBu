@@ -4,9 +4,7 @@
 <h2 align="center">Contact me</h2>
 
 <div id="header" align="center">
-  <a href="https://www.linkedin.com/in/jaume-vidal-buenafuente/" ><img src="https://img.shields.io/badge/LinkedIn-blue" height="40px"/></a>
-  <a href="mailto:jaumevibu@gmail.com" width="100"/><img src="https://img.shields.io/badge/Gmail-bb001b" height="40px"/></a>
-  
+  <a href="https://www.linkedin.com/in/jaume-vidal-buenafuente/" ><img src="https://img.shields.io/badge/LinkedIn-blue" height="40px"/></a>  
 </div> 
 
 
